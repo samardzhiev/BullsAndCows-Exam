@@ -1,0 +1,13 @@
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Models\bin\Debug\BullsAndCows.Models.dll.config
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Models\bin\Debug\BullsAndCows.Models.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Models\bin\Debug\BullsAndCows.Models.pdb
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Models\bin\Debug\EntityFramework.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Models\bin\Debug\EntityFramework.xml
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Models\obj\Debug\BullsAndCows.Models.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Models\obj\Debug\BullsAndCows.Models.pdb

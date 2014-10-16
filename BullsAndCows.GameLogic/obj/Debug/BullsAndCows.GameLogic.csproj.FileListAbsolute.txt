@@ -1,0 +1,15 @@
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.GameLogic\bin\Debug\BullsAndCows.GameLogic.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.GameLogic\bin\Debug\BullsAndCows.GameLogic.pdb
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.GameLogic\obj\Debug\BullsAndCows.GameLogic.csprojResolveAssemblyReference.cache
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.GameLogic\obj\Debug\BullsAndCows.GameLogic.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.GameLogic\obj\Debug\BullsAndCows.GameLogic.pdb
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.GameLogic\bin\Debug\BullsAndCows.Data.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.GameLogic\bin\Debug\BullsAndCows.Models.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.GameLogic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.GameLogic\bin\Debug\EntityFramework.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.GameLogic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.GameLogic\bin\Debug\BullsAndCows.Data.pdb
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.GameLogic\bin\Debug\BullsAndCows.Models.pdb
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.GameLogic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.GameLogic\bin\Debug\EntityFramework.xml
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.GameLogic\bin\Debug\Microsoft.AspNet.Identity.Core.xml

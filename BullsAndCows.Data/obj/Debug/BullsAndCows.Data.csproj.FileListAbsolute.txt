@@ -1,0 +1,16 @@
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\bin\Debug\BullsAndCows.Data.dll.config
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\bin\Debug\BullsAndCows.Data.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\bin\Debug\BullsAndCows.Data.pdb
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\bin\Debug\BullsAndCows.Models.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\bin\Debug\EntityFramework.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\bin\Debug\BullsAndCows.Models.pdb
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\bin\Debug\EntityFramework.xml
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\obj\Debug\BullsAndCows.Data.csprojResolveAssemblyReference.cache
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\obj\Debug\BullsAndCows.Data.dll
+C:\Users\Yordan\OneDrive\Documents\Visual Studio 2013\Projects\BullsAndCows\BullsAndCows.Data\obj\Debug\BullsAndCows.Data.pdb
